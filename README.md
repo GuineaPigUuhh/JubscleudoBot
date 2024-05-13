@@ -6,7 +6,7 @@ is a bot from a Brazilian server.
 ---
 
 ## The server where the bot can be found:
-- [**Central da Melancia**](discord.gg/UCXTf5gSJB)
+- [**Central da Melancia**](https://discord.gg/UCXTf5gSJB)
 
 ## Configuration:
 Create a file named **config.py**:
