@@ -3,6 +3,11 @@ is a bot from a Brazilian server.
 
 ![img](https://cdn.discordapp.com/avatars/1116117973887889550/18b8150f49df27b670609dcba422aa34.png?size=1024&format=webp&quality=lossless&width=0&height=256)
 
+---
+
+## The server where the bot can be found:
+- [**Central da Melancia**](discord.gg/UCXTf5gSJB)
+
 ## Configuration:
 Create a file named **config.py**:
 ```python
